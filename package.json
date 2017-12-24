@@ -12,15 +12,15 @@
   "author": {
     "name": "Hayrullah Cansu",
     "email": "hayrullahcansu@gmail.com",
-    "url": "http://github.com/hayrullah"
+    "url": "http://github.com/hayrullahcansu"
   },
   "homepage": "http://musicoin.org/",
   "repository": {
     "type": "git",
-    "url": "git://github.com/hayrullah/passport-musicoin.git"
+    "url": "git://github.com/hayrullahcansu/passport-musicoin.git"
   },
   "bugs": {
-    "url": "http://github.com/hayrullah/passport-musicoin/issues"
+    "url": "http://github.com/hayrullahcansu/passport-musicoin/issues"
   },
   "license": "MIT",
   "licenses": [
